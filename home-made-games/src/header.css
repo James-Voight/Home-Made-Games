@@ -1,0 +1,13 @@
+nav {
+  display: flex;
+  justify-content: center;
+}
+
+header > h1 {
+  display: flex;
+  justify-content: center;
+}
+
+nav > button {
+  margin: 0 2vw 0 2vw;
+}
